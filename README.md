@@ -41,7 +41,7 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 ## 🏅 Professional Recognition & Memberships
 
 ### Association des Biologistes Médicaux du Togo (ABM-TOGO)
-**Active Member** : *Registration N°0655***
+**Active Member** : *Registration `N°0655`*
 
 > *Membership in the national association of medical biologists reflects my commitment to professional standards, ethics, and continuous quality improvement in medical biology*
 
