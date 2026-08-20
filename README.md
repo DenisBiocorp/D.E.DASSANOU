@@ -41,18 +41,18 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 ## 🏅 Professional Recognition & Memberships
 
 ### Association des Biologistes Médicaux du Togo (ABM-TOGO)
-**Active Member** : *Registration N°:0655***
+**Active Member** : *Registration N°0655***
 
-> *"Membership in the national association of medical biologists reflects my commitment to professional standards, ethics, and continuous quality improvement in medical biology"*
+> *Membership in the national association of medical biologists reflects my commitment to professional standards, ethics, and continuous quality improvement in medical biology*
 
 📋 **What this membership certifies**:
-- ✅ Qualification as a Senior Laboratory Technician
-- ✅ Adherence to the profession's Code of Ethics
-- ✅ No disciplinary or professional sanctions recorded
-- ✅ Active engagement in the Togolese medical biology community
-- ✅ Contribution to healthcare quality in Togo
+-  Qualification as a Senior Laboratory Technician
+-  Adherence to the profession's Code of Ethics
+-  No disciplinary or professional sanctions recorded
+-  Active engagement in the Togolese medical biology community
+-  Contribution to healthcare quality in Togo
 
-![Certificate available upon request*](https://drive.google.com/drive/folders/1XJbDDkxE6saP0boZnDKsCQ2_swlyGq4w)
+[Certificate available upon request](https://drive.google.com/drive/folders/1XJbDDkxE6saP0boZnDKsCQ2_swlyGq4w)
 
 ## 👨‍🔬 Professional Experience
 
@@ -97,7 +97,7 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 
   [Certificate available upon request](https://drive.google.com/drive/folders/1Kc2FjuUjO9QYHx8fJfbFeBk2WStx7w-X?usp=drive_link) 
 
-*The training courses were completed on platforms such as France Université Numérique, the Mérieux Foundation website, and via Zoom.*
+*The training courses were completed on platforms such as France Université Numérique, the Mérieux Foundation website,  via Zoom and other platforms*
 
 
 ---
