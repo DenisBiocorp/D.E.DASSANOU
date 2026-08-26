@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center"><b>🧬 About Me</b></h2>
+##🧬 About Me
 
 I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analysis, hospital experience) transitioning into **genomics and bioinformatics**. My hands-on lab background taught me diagnostic rigor; my current training teaches me how to analyze genomic data using computational tools. Beyond formal coursework, I actively acquire new skills through online platforms (France Université Numérique, Mérieux Foundation, Coursera), open-source tools, and hands-on projects. I believe in learning by doing: every tool in my stack was first explored through personal practice and troubleshooting. **This portfolio showcases my skills, expertise, and areas of interest.**
 
@@ -80,14 +80,14 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 **Molecular Biology:** Cell Biology, Macromolecule Structure, Molecular Biology of the Cell, Gene Expression, Regulation Mechanisms  
 **Clinical Genetics:** Medical Genetic Counseling, Personalized Medicine, Genetic Epidemiology, Ethical Considerations
 
----
+
 
 ### 2024 – 2025 | Russian Language Training
 **University of Science and Technology of Ufa**
 
 Grammar, Vocabulary, Phonetics, Syntax, Conversation, Academic Writing, Reading Comprehension, Listening Comprehension, Oral Expression, Technical Russian for Science
 
----
+
 
 ### 2018 – 2021 | Bachelor in Medical and Biological Analysis
 **ESTBA / University of Lomé** 
@@ -97,7 +97,7 @@ Grammar, Vocabulary, Phonetics, Syntax, Conversation, Academic Writing, Reading 
 **Quality:** Quality Management, Quality Control, Biosecurity, ISO Standards, Good Laboratory Practices  
 **Transversal:** Data Analysis, Documentary Research, Medical English, Teamwork
 
----
+
 
 ### 2016 – 2017 | Baccalaureate Part 2 – Série D
 **Lycée de Tokoin I**
