@@ -69,12 +69,16 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 
 ## 🎓 Education
 
-| Period | Degree / Training | Institution |
-|--------|------------------|-------------|
-| 2025 – 2027 | **Master's in Genomics and Bioinformatics** (in progress) | University of Science and technology of Ufa |
-| 2024 – 2025 | **Russian language training** | University of Science and technology of Ufa |
-| 2018 – 2021 | **Bachelor in Medical and Biological Analysis**  | ESTBA / University of Lomé |
-| 2016 – 2017 | **Baccalaureate Part 2**  | Lycée de Tokoin I |
+| Period | Degree / Training | Institution |Main subject |
+|--------|------------------|-------------|--------------|
+| 2025 – 2027 | **Master's in Genomics and Bioinformatics** (in progress) | University of Science and technology of Ufa |Genomics: Human Genomics, Epigenomics, Neurogenetics, Pharmacogenetics, Oncogenetics, Mitochondrial Genetics, Orphan Diseases, Genome Editing 
+Bioinformatics: Genomic Data Analysis, Artificial Intelligence, Programming , Data Analysis
+Research: Research Methodology, Scientific Writing, Project Management, Field Research, Interdisciplinary Collaboration
+Molecular Biology: Cell Biology, Macromolecule Structure, Molecular Biology of the Cell, Gene Expression, Regulation Mechanisms
+Clinical Genetics: Medical Genetic Counseling, Personalized Medicine, Genetic Epidemiology, Ethical Consideration |
+| 2024 – 2025 | **Russian language training** | University of Science and technology of Ufa | |
+| 2018 – 2021 | **Bachelor in Medical and Biological Analysis**  | ESTBA / University of Lomé | |
+| 2016 – 2017 | **Baccalaureate Part 2**  | Lycée de Tokoin I | |
 
 
 ### Certified Trainings
