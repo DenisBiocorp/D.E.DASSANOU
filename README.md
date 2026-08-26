@@ -77,6 +77,9 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 | 2016 – 2017 | Baccalaureate Part 2 | Lycée de Tokoin I |**Mathematics:** Functions, Geometry, Complex Numbers, Probability, Statistics, Differential Equations, Logarithmic Functions<br><br>**Physics:** Mechanics, Electricity, Optics, Waves, Nuclear Energy, Radioactivity, Electrical Circuits, RLC Circuits, Resonance<br><br>**Chemistry:** Acid-Base Chemistry, Oxidation-Reduction, Organic Chemistry, Esterification, Electrochemistry<br><br>**Life and Earth Sciences (SVT):** Genetics (Mendelian Inheritance, Test-cross), Immunology, Ecology, Geology, Cellular Biology, Heredity, CFTR Protein, Mucoviscidosis<br><br>**General Subjects:** French, Philosophy, History-Geography, English |
 
 
+---
+
+
 ### Certified Trainings
 
 
