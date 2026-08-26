@@ -6,7 +6,9 @@
 
 ---
 
+<div align="center">
 ## 🧬 About Me
+</div>
 
 I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analysis, hospital experience) transitioning into **genomics and bioinformatics**. My hands-on lab background taught me diagnostic rigor; my current training teaches me how to analyze genomic data using computational tools. Beyond formal coursework, I actively acquire new skills through online platforms (France Université Numérique, Mérieux Foundation, Coursera), open-source tools, and hands-on projects. I believe in learning by doing: every tool in my stack was first explored through personal practice and troubleshooting. **This portfolio showcases my skills, expertise, and areas of interest.**
 
