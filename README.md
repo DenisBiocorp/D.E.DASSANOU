@@ -69,18 +69,49 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 
 ## 🎓 Education
 
-| Period | Degree / Training | Institution | Main subject |
-|--------|-------------------|-------------|--------------|
-| 2025 – 2027 | Master's in Genomics and Bioinformatics (in progress) | University of Science and technology of Ufa | **Genomics:** Human Genomics, Epigenomics, Neurogenetics, Pharmacogenetics, Oncogenetics, Mitochondrial Genetics, Orphan Diseases, Genome Editing<br><br>**Bioinformatics:** Genomic Data Analysis, Artificial Intelligence, Programming, Data Analysis<br><br>**Research:** Research Methodology, Scientific Writing, Project Management, Interdisciplinary Collaboration<br><br>**Molecular Biology:** Cell Biology, Macromolecule Structure, Molecular Biology of the Cell, Gene Expression, Regulation Mechanisms<br><br>**Clinical Genetics:** Medical Genetic Counseling, Personalized Medicine, Genetic Epidemiology, Ethical Considerations |
-| 2024 – 2025 | Russian language training | University of Science and technology of Ufa | Grammar, Vocabulary, Phonetics, Syntax, Conversation, Academic Writing, Reading Comprehension, Listening Comprehension, Oral Expression, Technical Russian for Science|
-| 2018 – 2021 | Bachelor in Medical and Biological Analysis | ESTBA / University of Lomé | **Medical Biology:** Hemostasis, Immunology, Bacteriology, Virology, Mycology, Parasitology, Serology, Clinical Biochemistry, Toxicology, Molecular Biology<br><br>**Techniques:** Spectrophotometry, ELISA, PCR, Electrophoresis, Microbial Cultures, Coagulation, Immunohematology<br><br>**Quality:** Quality Management, Quality Control, Biosecurity, ISO Standards, Good Laboratory Practices<br><br>**Transversal:** Data Analysis, Documentary Research, Medical English, Teamwork|
-| 2016 – 2017 | Baccalaureate Part 2 | Lycée de Tokoin I |**Mathematics:** Functions, Geometry, Complex Numbers, Probability, Statistics, Differential Equations, Logarithmic Functions<br><br>**Physics:** Mechanics, Electricity, Optics, Waves, Nuclear Energy, Radioactivity, Electrical Circuits, RLC Circuits, Resonance<br><br>**Chemistry:** Acid-Base Chemistry, Oxidation-Reduction, Organic Chemistry, Esterification, Electrochemistry<br><br>**Life and Earth Sciences (SVT):** Genetics (Mendelian Inheritance, Test-cross), Immunology, Ecology, Geology, Cellular Biology, Heredity, CFTR Protein, Mucoviscidosis<br><br>**General Subjects:** French, Philosophy, History-Geography, English |
+---
 
+### 2025 – 2027 | Master's in Genomics and Bioinformatics *(in progress)*
+**University of Science and Technology of Ufa** | 
+
+**Genomics:** Human Genomics, Epigenomics, Neurogenetics, Pharmacogenetics, Oncogenetics, Mitochondrial Genetics, Orphan Diseases, Genome Editing  
+**Bioinformatics:** Genomic Data Analysis, Artificial Intelligence, Programming, Data Analysis  
+**Research:** Research Methodology, Scientific Writing, Project Management, Interdisciplinary Collaboration  
+**Molecular Biology:** Cell Biology, Macromolecule Structure, Molecular Biology of the Cell, Gene Expression, Regulation Mechanisms  
+**Clinical Genetics:** Medical Genetic Counseling, Personalized Medicine, Genetic Epidemiology, Ethical Considerations
+
+---
+
+### 2024 – 2025 | Russian Language Training
+**University of Science and Technology of Ufa**
+
+Grammar, Vocabulary, Phonetics, Syntax, Conversation, Academic Writing, Reading Comprehension, Listening Comprehension, Oral Expression, Technical Russian for Science
+
+---
+
+### 2018 – 2021 | Bachelor in Medical and Biological Analysis
+**ESTBA / University of Lomé** | *Level in EQF: 6*
+
+**Medical Biology:** Hemostasis, Immunology, Bacteriology, Virology, Mycology, Parasitology, Serology, Clinical Biochemistry, Toxicology, Molecular Biology  
+**Techniques:** Spectrophotometry, ELISA, PCR, Electrophoresis, Microbial Cultures, Coagulation, Immunohematology  
+**Quality:** Quality Management, Quality Control, Biosecurity, ISO Standards, Good Laboratory Practices  
+**Transversal:** Data Analysis, Documentary Research, Medical English, Teamwork
+
+---
+
+### 2016 – 2017 | Baccalaureate Part 2 – Série D
+**Lycée de Tokoin I**
+
+**Mathematics:** Functions, Geometry, Complex Numbers, Probability, Statistics, Differential Equations, Logarithmic Functions  
+**Physics:** Mechanics, Electricity, Optics, Waves, Nuclear Energy, Radioactivity, Electrical Circuits, RLC Circuits, Resonance  
+**Chemistry:** Acid-Base Chemistry, Oxidation-Reduction, Organic Chemistry, Esterification, Electrochemistry  
+**Life and Earth Sciences (SVT):** Genetics (Mendelian Inheritance, Test-cross), Immunology, Ecology, Geology, Cellular Biology, Heredity, CFTR Protein, Mucoviscidosis  
+**General Subjects:** French, Philosophy, History-Geography, English
 
 ---
 
 
-### Certified Trainings
+###🏆Certified Trainings
 
 
 - **Introduction to Next-Generation Sequencing and Bioinformatics** (Fondation Mérieux, France,  June 2026))
