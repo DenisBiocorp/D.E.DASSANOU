@@ -72,7 +72,7 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 ---
 
 ### 2025 – 2027 | Master's in Genomics and Bioinformatics *(in progress)*
-**University of Science and Technology of Ufa** | 
+**University of Science and Technology of Ufa** 
 
 **Genomics:** Human Genomics, Epigenomics, Neurogenetics, Pharmacogenetics, Oncogenetics, Mitochondrial Genetics, Orphan Diseases, Genome Editing  
 **Bioinformatics:** Genomic Data Analysis, Artificial Intelligence, Programming, Data Analysis  
@@ -90,7 +90,7 @@ Grammar, Vocabulary, Phonetics, Syntax, Conversation, Academic Writing, Reading 
 ---
 
 ### 2018 – 2021 | Bachelor in Medical and Biological Analysis
-**ESTBA / University of Lomé** | *Level in EQF: 6*
+**ESTBA / University of Lomé** 
 
 **Medical Biology:** Hemostasis, Immunology, Bacteriology, Virology, Mycology, Parasitology, Serology, Clinical Biochemistry, Toxicology, Molecular Biology  
 **Techniques:** Spectrophotometry, ELISA, PCR, Electrophoresis, Microbial Cultures, Coagulation, Immunohematology  
@@ -111,7 +111,7 @@ Grammar, Vocabulary, Phonetics, Syntax, Conversation, Academic Writing, Reading 
 ---
 
 
-###🏆Certified Trainings
+### 🏆Certified Trainings
 
 
 - **Introduction to Next-Generation Sequencing and Bioinformatics** (Fondation Mérieux, France,  June 2026))
